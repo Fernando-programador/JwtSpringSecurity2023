@@ -1,0 +1,5 @@
+package com.fsc.jwt.mapper;
+
+public class DozerMapper {
+
+}

@@ -425,3 +425,90 @@
 2022-12-16 00:41:48,718 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-16 00:41:48,721 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-16 00:41:48,734 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:15:15,225 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:15:15,268 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:15:15,275 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:15:28,653 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:15:28,720 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:15:28,731 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:16:17,761 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:16:17,825 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:16:17,833 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:21:30,646 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:21:30,681 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:21:30,693 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:22:00,096 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:22:00,140 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:22:00,149 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:22:18,201 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:22:18,243 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:22:18,257 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:24:39,022 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:24:39,086 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:24:39,097 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:25:34,708 [Worker-34: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fsc:jwtSpringSecurity2022:0.0.1-SNAPSHOT @ \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\pom.xml.
+2022-12-16 01:25:35,991 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/dozermapper/dozer-core/${dozer.version}/dozer-core-${dozer.version}.pom
+2022-12-16 01:25:35,996 [Worker-34: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for com.github.dozermapper:dozer-core:jar:${dozer.version} is missing, no dependency information available
+2022-12-16 01:25:36,273 [Worker-34: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/dozermapper/dozer-core/${dozer.version}/dozer-core-${dozer.version}.jar
+2022-12-16 01:25:36,924 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:25:36,969 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:25:36,977 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:25:38,271 [Worker-34: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/github/dozermapper/dozer-core/${dozer.version}/dozer-core-${dozer.version}-sources.jar
+2022-12-16 01:25:38,279 [Worker-34: Download sources and javadoc] ERROR o.e.m.j.internal.DownloadSourcesJob - Could not download sources for com.github.dozermapper:dozer-core:${dozer.version}
+org.eclipse.core.runtime.CoreException: Could not resolve artifact com.github.dozermapper:dozer-core:jar:sources:${dozer.version}
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.lambda$6(MavenImpl.java:608)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:219)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:577)
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.resolve(MavenImpl.java:562)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.download(DownloadSourcesJob.java:308)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadAttachments(DownloadSourcesJob.java:282)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadMaven(DownloadSourcesJob.java:252)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.downloadFilesAndPopulateToUpdate(DownloadSourcesJob.java:220)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.lambda$0(DownloadSourcesJob.java:149)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:350)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:262)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:205)
+	at org.eclipse.m2e.core.embedder.IMaven.execute(IMaven.java:270)
+	at org.eclipse.m2e.jdt.internal.DownloadSourcesJob.run(DownloadSourcesJob.java:149)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-16 01:26:32,753 [Worker-38: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fsc:jwtSpringSecurity2022:0.0.1-SNAPSHOT @ \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\pom.xml.
+2022-12-16 01:26:33,629 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11.pom
+2022-12-16 01:26:33,891 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11.pom
+2022-12-16 01:26:34,068 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.4/jcl-over-slf4j-2.0.4.pom
+2022-12-16 01:26:34,202 [Worker-38: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.4/jcl-over-slf4j-2.0.4.pom
+2022-12-16 01:26:34,392 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.4/jcl-over-slf4j-2.0.4.jar
+2022-12-16 01:26:34,522 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11.jar
+2022-12-16 01:26:34,654 [AetherRepositoryConnector-repo.maven.apache.org-2-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.4/jcl-over-slf4j-2.0.4.jar
+2022-12-16 01:26:34,845 [AetherRepositoryConnector-repo.maven.apache.org-2-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11.jar
+2022-12-16 01:26:35,501 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:26:35,504 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:26:35,517 [Worker-38: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:26:36,982 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11-sources.jar
+2022-12-16 01:26:37,424 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:26:37,468 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:26:37,471 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/xml/bind/jaxb-api/2.2.11/jaxb-api-2.2.11-sources.jar
+2022-12-16 01:26:37,475 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for javax.xml.bind:jaxb-api:2.2.11
+2022-12-16 01:26:37,478 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:26:38,017 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.4/jcl-over-slf4j-2.0.4-sources.jar
+2022-12-16 01:26:38,283 [Worker-40: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/2.0.4/jcl-over-slf4j-2.0.4-sources.jar
+2022-12-16 01:26:38,288 [Worker-40: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.slf4j:jcl-over-slf4j:2.0.4
+2022-12-16 01:26:39,102 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:26:39,105 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:26:39,115 [Worker-43: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:27:31,255 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:27:31,294 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:27:31,339 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:41:00,389 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:41:00,547 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:41:00,557 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:41:17,343 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:41:17,395 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:41:17,405 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:43:06,580 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:43:06,641 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:43:06,650 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 01:47:52,260 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 01:47:52,310 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 01:47:52,324 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
