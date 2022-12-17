@@ -512,3 +512,250 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact com.github.do
 2022-12-16 01:47:52,260 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2022-12-16 01:47:52,310 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2022-12-16 01:47:52,324 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 07:34:52,267 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-12-16 07:42:59,429 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 07:42:59,507 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 07:42:59,524 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 07:44:34,306 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 07:44:34,357 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 07:44:34,369 [Worker-27: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 07:47:56,137 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 07:47:56,183 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 07:47:56,200 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 07:51:26,234 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 07:51:26,285 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 07:51:26,304 [Worker-34: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 07:52:49,211 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 07:52:49,293 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 07:52:49,305 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 08:05:28,729 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 08:05:28,790 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 08:05:28,807 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 08:05:48,157 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 08:05:48,233 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 08:05:48,243 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 08:06:01,169 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 08:06:01,281 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 08:06:01,301 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 08:41:32,425 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 08:41:32,493 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 08:41:32,503 [Worker-42: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 08:45:25,689 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 08:45:25,945 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 08:45:25,958 [Worker-45: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 08:46:05,400 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 08:46:05,455 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 08:46:05,471 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 16:26:55,804 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 16:26:55,857 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 16:26:55,869 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 16:28:55,640 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 16:28:55,735 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 16:28:55,751 [Worker-50: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 16:32:42,995 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 16:32:43,028 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 16:32:43,041 [Worker-47: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 16:34:05,535 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 16:34:05,607 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 16:34:05,618 [Worker-52: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 16:34:32,904 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 16:34:33,003 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 16:34:33,019 [Worker-55: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 18:10:14,175 [Worker-59: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fsc:jwtSpringSecurity2022:0.0.1-SNAPSHOT @ \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\pom.xml.
+2022-12-16 18:10:16,923 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 18:10:16,978 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 18:10:19,401 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 18:10:19,429 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 18:12:15,201 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 18:12:15,224 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 21:15:19,399 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 21:15:19,560 [Worker-79: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 21:15:42,860 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 21:15:42,917 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 21:24:39,652 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 21:24:39,705 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 21:24:40,262 [Worker-87: Decoration Calculation] ERROR o.e.j.i.storage.file.PackDirectory - Exception caught while accessing pack file \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\.git\objects\pack\pack-a2e63b020dcd7d25dda29c52a689a4e2f09d5cdf.pack, the pack file might be corrupt. Caught 4 consecutive errors while trying to read this pack.
+java.io.IOException: Erro de rede inesperado
+	at java.base/java.io.RandomAccessFile.readBytes(Native Method)
+	at java.base/java.io.RandomAccessFile.read(RandomAccessFile.java:405)
+	at java.base/java.io.RandomAccessFile.readFully(RandomAccessFile.java:469)
+	at org.eclipse.jgit.internal.storage.file.Pack.read(Pack.java:713)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:515)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:602)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:385)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:327)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.copy(WindowCursor.java:226)
+	at org.eclipse.jgit.internal.storage.file.Pack.readFully(Pack.java:602)
+	at org.eclipse.jgit.internal.storage.file.Pack.load(Pack.java:785)
+	at org.eclipse.jgit.internal.storage.file.Pack.get(Pack.java:273)
+	at org.eclipse.jgit.internal.storage.file.PackDirectory.open(PackDirectory.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:405)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:369)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObjectWithoutRestoring(ObjectDirectory.java:360)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:345)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:132)
+	at org.eclipse.jgit.revwalk.RevWalk.getCachedBytes(RevWalk.java:1125)
+	at org.eclipse.jgit.revwalk.RevCommit.parseHeaders(RevCommit.java:138)
+	at org.eclipse.jgit.revwalk.MergeBaseGenerator._next(MergeBaseGenerator.java:121)
+	at org.eclipse.jgit.revwalk.MergeBaseGenerator.init(MergeBaseGenerator.java:76)
+	at org.eclipse.jgit.revwalk.StartGenerator.next(StartGenerator.java:72)
+	at org.eclipse.jgit.revwalk.RevWalk.next(RevWalk.java:609)
+	at org.eclipse.jgit.lib.BranchTrackingStatus.of(BranchTrackingStatus.java:65)
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.lambda$3(DecoratorRepositoryStateCache.java:159)
+	at org.eclipse.egit.core.UnitOfWork.get(UnitOfWork.java:132)
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.lambda$2(DecoratorRepositoryStateCache.java:152)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.getBranchStatus(DecoratorRepositoryStateCache.java:151)
+	at org.eclipse.egit.ui.internal.decorators.DecoratableResourceAdapter.<init>(DecoratableResourceAdapter.java:77)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:199)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:172)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:250)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.queue(DecorationScheduler.java:419)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:397)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-16 21:30:31,254 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 21:30:31,280 [Worker-82: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 21:30:50,865 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 21:30:50,891 [Worker-80: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:03:58,517 [Worker-99: Decoration Calculation] ERROR o.e.j.i.storage.file.PackDirectory - Exception caught while accessing pack file \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\.git\objects\pack\pack-a2e63b020dcd7d25dda29c52a689a4e2f09d5cdf.pack, the pack file might be corrupt. Caught 8 consecutive errors while trying to read this pack.
+java.io.IOException: Erro de rede inesperado
+	at java.base/java.io.RandomAccessFile.readBytes(Native Method)
+	at java.base/java.io.RandomAccessFile.read(RandomAccessFile.java:405)
+	at java.base/java.io.RandomAccessFile.readFully(RandomAccessFile.java:469)
+	at org.eclipse.jgit.internal.storage.file.Pack.read(Pack.java:713)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.load(WindowCache.java:515)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.getOrLoad(WindowCache.java:602)
+	at org.eclipse.jgit.internal.storage.file.WindowCache.get(WindowCache.java:385)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.pin(WindowCursor.java:327)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.copy(WindowCursor.java:226)
+	at org.eclipse.jgit.internal.storage.file.Pack.readFully(Pack.java:602)
+	at org.eclipse.jgit.internal.storage.file.Pack.load(Pack.java:785)
+	at org.eclipse.jgit.internal.storage.file.Pack.get(Pack.java:273)
+	at org.eclipse.jgit.internal.storage.file.PackDirectory.open(PackDirectory.java:212)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedObject(ObjectDirectory.java:405)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openPackedFromSelfOrAlternate(ObjectDirectory.java:369)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObjectWithoutRestoring(ObjectDirectory.java:360)
+	at org.eclipse.jgit.internal.storage.file.ObjectDirectory.openObject(ObjectDirectory.java:345)
+	at org.eclipse.jgit.internal.storage.file.WindowCursor.open(WindowCursor.java:132)
+	at org.eclipse.jgit.revwalk.RevWalk.getCachedBytes(RevWalk.java:1125)
+	at org.eclipse.jgit.revwalk.RevCommit.parseHeaders(RevCommit.java:138)
+	at org.eclipse.jgit.revwalk.MergeBaseGenerator._next(MergeBaseGenerator.java:121)
+	at org.eclipse.jgit.revwalk.MergeBaseGenerator.init(MergeBaseGenerator.java:76)
+	at org.eclipse.jgit.revwalk.StartGenerator.next(StartGenerator.java:72)
+	at org.eclipse.jgit.revwalk.RevWalk.next(RevWalk.java:609)
+	at org.eclipse.jgit.lib.BranchTrackingStatus.of(BranchTrackingStatus.java:65)
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.lambda$3(DecoratorRepositoryStateCache.java:159)
+	at org.eclipse.egit.core.UnitOfWork.get(UnitOfWork.java:132)
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.lambda$2(DecoratorRepositoryStateCache.java:152)
+	at java.base/java.util.concurrent.ConcurrentHashMap.computeIfAbsent(ConcurrentHashMap.java:1708)
+	at org.eclipse.egit.ui.internal.decorators.DecoratorRepositoryStateCache.getBranchStatus(DecoratorRepositoryStateCache.java:151)
+	at org.eclipse.egit.ui.internal.decorators.DecoratableResourceAdapter.<init>(DecoratableResourceAdapter.java:77)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorateResource(GitLightweightDecorator.java:199)
+	at org.eclipse.egit.ui.internal.decorators.GitLightweightDecorator.decorate(GitLightweightDecorator.java:172)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorDefinition.decorate(LightweightDecoratorDefinition.java:250)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager$LightweightRunnable.run(LightweightDecoratorManager.java:105)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:45)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.decorate(LightweightDecoratorManager.java:360)
+	at org.eclipse.ui.internal.decorators.LightweightDecoratorManager.getDecorations(LightweightDecoratorManager.java:346)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.queue(DecorationScheduler.java:419)
+	at org.eclipse.ui.internal.decorators.DecorationScheduler$1.run(DecorationScheduler.java:397)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+2022-12-16 22:03:58,603 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 22:03:58,629 [Worker-96: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:16:18,547 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 22:16:18,608 [Worker-101: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:31:02,239 [Worker-119: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-16 22:31:03,027 [Worker-119: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fsc:jwtSpringSecurity2022:0.0.1-SNAPSHOT @ \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\pom.xml.
+2022-12-16 22:31:04,763 [Worker-119: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jwtSpringSecurity2022/src/main/java
+2022-12-16 22:31:04,770 [Worker-119: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jwtSpringSecurity2022/src/main/resources
+2022-12-16 22:31:04,773 [Worker-119: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jwtSpringSecurity2022/src/main/resources
+2022-12-16 22:31:04,775 [Worker-119: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jwtSpringSecurity2022/src/test/java
+2022-12-16 22:31:06,369 [Worker-119: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-12-16 22:31:07,140 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 22:31:07,178 [Worker-128: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:36:55,683 [Worker-97: Launching jwtSpringSecurity2022 - JwtSpringSecurity2022Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 22:36:55,715 [Worker-97: Launching jwtSpringSecurity2022 - JwtSpringSecurity2022Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:42:48,597 [Worker-131: Launching jwtSpringSecurity2022 - JwtSpringSecurity2022Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 22:42:48,625 [Worker-131: Launching jwtSpringSecurity2022 - JwtSpringSecurity2022Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:49:36,462 [Worker-151: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fsc:jwtSpringSecurity2022:0.0.1-SNAPSHOT @ \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\pom.xml.
+2022-12-16 22:49:37,816 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/3.0.0/spring-boot-starter-hateoas-3.0.0.pom
+2022-12-16 22:49:38,085 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/3.0.0/spring-boot-starter-hateoas-3.0.0.pom
+2022-12-16 22:49:38,270 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0.pom
+2022-12-16 22:49:38,467 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0.pom
+2022-12-16 22:49:38,626 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.pom
+2022-12-16 22:49:38,772 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.pom
+2022-12-16 22:49:38,931 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/9.5.1/flyway-core-9.5.1.pom
+2022-12-16 22:49:39,095 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/9.5.1/flyway-core-9.5.1.pom
+2022-12-16 22:49:39,254 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-parent/9.5.1/flyway-parent-9.5.1.pom
+2022-12-16 22:49:39,432 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-parent/9.5.1/flyway-parent-9.5.1.pom
+2022-12-16 22:49:39,601 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/electronwill/night-config/toml/3.6.6/toml-3.6.6.pom
+2022-12-16 22:49:39,746 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/electronwill/night-config/toml/3.6.6/toml-3.6.6.pom
+2022-12-16 22:49:39,892 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/electronwill/night-config/core/3.6.6/core-3.6.6.pom
+2022-12-16 22:49:40,118 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/electronwill/night-config/core/3.6.6/core-3.6.6.pom
+2022-12-16 22:49:40,288 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-mysql/9.5.1/flyway-mysql-9.5.1.pom
+2022-12-16 22:49:40,460 [Worker-151: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-mysql/9.5.1/flyway-mysql-9.5.1.pom
+2022-12-16 22:49:40,683 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.jar
+2022-12-16 22:49:40,717 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0.jar
+2022-12-16 22:49:40,890 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/3.0.0/spring-boot-starter-hateoas-3.0.0.jar
+2022-12-16 22:49:40,957 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/9.5.1/flyway-core-9.5.1.jar
+2022-12-16 22:49:40,957 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/electronwill/night-config/toml/3.6.6/toml-3.6.6.jar
+2022-12-16 22:49:41,162 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0.jar
+2022-12-16 22:49:41,279 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/3.0.0/spring-boot-starter-hateoas-3.0.0.jar
+2022-12-16 22:49:41,331 [AetherRepositoryConnector-repo.maven.apache.org-0-4] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/electronwill/night-config/toml/3.6.6/toml-3.6.6.jar
+2022-12-16 22:49:41,394 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/electronwill/night-config/core/3.6.6/core-3.6.6.jar
+2022-12-16 22:49:41,488 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-mysql/9.5.1/flyway-mysql-9.5.1.jar
+2022-12-16 22:49:41,546 [AetherRepositoryConnector-repo.maven.apache.org-0-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0.jar
+2022-12-16 22:49:41,583 [AetherRepositoryConnector-repo.maven.apache.org-0-3] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/9.5.1/flyway-core-9.5.1.jar
+2022-12-16 22:49:41,637 [AetherRepositoryConnector-repo.maven.apache.org-0-2] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/electronwill/night-config/core/3.6.6/core-3.6.6.jar
+2022-12-16 22:49:41,682 [AetherRepositoryConnector-repo.maven.apache.org-0-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-mysql/9.5.1/flyway-mysql-9.5.1.jar
+2022-12-16 22:49:42,303 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 22:49:42,304 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 22:49:42,311 [Worker-151: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:49:42,676 [Worker-150: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2022-12-16 22:49:43,211 [Worker-150: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.fsc:jwtSpringSecurity2022:0.0.1-SNAPSHOT @ \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\pom.xml.
+2022-12-16 22:49:44,421 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/3.0.0/spring-boot-starter-hateoas-3.0.0-sources.jar
+2022-12-16 22:49:44,574 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/boot/spring-boot-starter-hateoas/3.0.0/spring-boot-starter-hateoas-3.0.0-sources.jar
+2022-12-16 22:49:44,580 [Worker-149: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.boot:spring-boot-starter-hateoas:3.0.0
+2022-12-16 22:49:45,206 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0-sources.jar
+2022-12-16 22:49:45,254 [Worker-150: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jwtSpringSecurity2022/src/main/java
+2022-12-16 22:49:45,257 [Worker-150: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jwtSpringSecurity2022/src/main/resources
+2022-12-16 22:49:45,258 [Worker-150: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /jwtSpringSecurity2022/src/main/resources
+2022-12-16 22:49:45,261 [Worker-150: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /jwtSpringSecurity2022/src/test/java
+2022-12-16 22:49:45,853 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/hateoas/spring-hateoas/2.0.0/spring-hateoas-2.0.0-sources.jar
+2022-12-16 22:49:45,860 [Worker-149: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.hateoas:spring-hateoas:2.0.0
+2022-12-16 22:49:46,454 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0-sources.jar
+2022-12-16 22:49:46,742 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/springframework/plugin/spring-plugin-core/3.0.0/spring-plugin-core-3.0.0-sources.jar
+2022-12-16 22:49:46,761 [Worker-149: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.springframework.plugin:spring-plugin-core:3.0.0
+2022-12-16 22:49:47,397 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/9.5.1/flyway-core-9.5.1-sources.jar
+2022-12-16 22:49:47,582 [Worker-150: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 4 sec
+2022-12-16 22:49:48,137 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-core/9.5.1/flyway-core-9.5.1-sources.jar
+2022-12-16 22:49:48,142 [Worker-149: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.flywaydb:flyway-core:9.5.1
+2022-12-16 22:49:48,353 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 22:49:48,388 [Worker-161: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:49:48,773 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/electronwill/night-config/toml/3.6.6/toml-3.6.6-sources.jar
+2022-12-16 22:49:49,059 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/electronwill/night-config/toml/3.6.6/toml-3.6.6-sources.jar
+2022-12-16 22:49:49,066 [Worker-149: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.electronwill.night-config:toml:3.6.6
+2022-12-16 22:49:49,658 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/com/electronwill/night-config/core/3.6.6/core-3.6.6-sources.jar
+2022-12-16 22:49:50,014 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/com/electronwill/night-config/core/3.6.6/core-3.6.6-sources.jar
+2022-12-16 22:49:50,018 [Worker-149: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for com.electronwill.night-config:core:3.6.6
+2022-12-16 22:49:50,634 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/flywaydb/flyway-mysql/9.5.1/flyway-mysql-9.5.1-sources.jar
+2022-12-16 22:49:50,921 [Worker-149: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/flywaydb/flyway-mysql/9.5.1/flyway-mysql-9.5.1-sources.jar
+2022-12-16 22:49:50,928 [Worker-149: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.flywaydb:flyway-mysql:9.5.1
+2022-12-16 22:49:51,939 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 22:49:51,942 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2022-12-16 22:49:51,950 [Worker-157: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:56:25,789 [Worker-167: Launching jwtSpringSecurity2022 - JwtSpringSecurity2022Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 22:56:25,836 [Worker-167: Launching jwtSpringSecurity2022 - JwtSpringSecurity2022Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 22:56:49,121 [Worker-167: Launching jwtSpringSecurity2022 - JwtSpringSecurity2022Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 22:56:49,141 [Worker-167: Launching jwtSpringSecurity2022 - JwtSpringSecurity2022Application] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-16 23:26:56,616 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-16 23:26:56,646 [Worker-176: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-17 02:44:31,909 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-17 02:56:16,896 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-17 02:56:16,943 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources
+2022-12-17 03:27:42,366 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2022-12-17 03:27:42,452 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory \\SERVER\PROJETOS_PROGRAMAÇÂO\ECLIPSE\jwt-spring-security-2022\jwtSpringSecurity2022\src\test\resources

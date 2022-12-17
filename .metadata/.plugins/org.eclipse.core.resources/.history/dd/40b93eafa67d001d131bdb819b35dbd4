@@ -1,0 +1,5 @@
+package com.fsc.jwt.security.Jwt;
+
+public class JwtConfigurer {
+
+}

@@ -1,0 +1,5 @@
+package com.fsc.jwt.exception;
+
+public class ExceptionResponse {
+
+}
