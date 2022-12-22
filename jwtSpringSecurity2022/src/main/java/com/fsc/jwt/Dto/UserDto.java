@@ -12,28 +12,34 @@ public class UserDto {
 
 	private String password;
 
-	private Boolean account_non_expired;
+	private Boolean accountNonExpired;
 
-	private Boolean account_non_locked;
+	private Boolean accountNonLocked;
 
-	private Boolean credentials_non_expired;
+	private Boolean credentialsNonExpired;
 
-	private Long enabled;
+	private Boolean enabled;
 	
 	public UserDto() {
 	}
 	
-	public UserDto(Long id, String userName, String fullName, String password, Boolean account_non_expired,
-			Boolean account_non_locked, Boolean credentials_non_expired, Long enabled) {
+	public UserDto(Long id, String userName, String fullName, String password, Boolean accountNonExpired,
+			Boolean accountNonLocked, Boolean credentialsNonExpired, Boolean enabled) {
+		super();
 		this.id = id;
 		this.userName = userName;
 		this.fullName = fullName;
 		this.password = password;
-		this.account_non_expired = account_non_expired;
-		this.account_non_locked = account_non_locked;
-		this.credentials_non_expired = credentials_non_expired;
+		this.accountNonExpired = accountNonExpired;
+		this.accountNonLocked = accountNonLocked;
+		this.credentialsNonExpired = credentialsNonExpired;
 		this.enabled = enabled;
 	}
+
+
+
+
+
 
 
 
@@ -69,35 +75,44 @@ public class UserDto {
 		this.password = password;
 	}
 
-	public Boolean getAccount_non_expired() {
-		return account_non_expired;
+
+
+	public Boolean getAccountNonExpired() {
+		return accountNonExpired;
 	}
 
-	public void setAccount_non_expired(Boolean account_non_expired) {
-		this.account_non_expired = account_non_expired;
+
+	public void setAccountNonExpired(Boolean accountNonExpired) {
+		this.accountNonExpired = accountNonExpired;
 	}
 
-	public Boolean getAccount_non_locked() {
-		return account_non_locked;
+
+	public Boolean getAccountNonLocked() {
+		return accountNonLocked;
 	}
 
-	public void setAccount_non_locked(Boolean account_non_locked) {
-		this.account_non_locked = account_non_locked;
+
+	public void setAccountNonLocked(Boolean accountNonLocked) {
+		this.accountNonLocked = accountNonLocked;
 	}
 
-	public Boolean getCredentials_non_expired() {
-		return credentials_non_expired;
+
+	public Boolean getCredentialsNonExpired() {
+		return credentialsNonExpired;
 	}
 
-	public void setCredentials_non_expired(Boolean credentials_non_expired) {
-		this.credentials_non_expired = credentials_non_expired;
+
+	public void setCredentialsNonExpired(Boolean credentialsNonExpired) {
+		this.credentialsNonExpired = credentialsNonExpired;
 	}
 
-	public Long getEnabled() {
+
+
+	public Boolean getEnabled() {
 		return enabled;
 	}
 
-	public void setEnabled(Long enabled) {
+	public void setEnabled(Boolean enabled) {
 		this.enabled = enabled;
 	}
 
@@ -106,11 +121,13 @@ public class UserDto {
 		return "UserDto []";
 	}
 
+
 	@Override
 	public int hashCode() {
-		return Objects.hash(account_non_expired, account_non_locked, credentials_non_expired, enabled, fullName, id,
-				password, userName);
+		return Objects.hash(accountNonExpired, accountNonLocked, credentialsNonExpired, enabled, fullName, id, password,
+				userName);
 	}
+
 
 	@Override
 	public boolean equals(Object obj) {
@@ -121,13 +138,15 @@ public class UserDto {
 		if (getClass() != obj.getClass())
 			return false;
 		UserDto other = (UserDto) obj;
-		return Objects.equals(account_non_expired, other.account_non_expired)
-				&& Objects.equals(account_non_locked, other.account_non_locked)
-				&& Objects.equals(credentials_non_expired, other.credentials_non_expired)
+		return Objects.equals(accountNonExpired, other.accountNonExpired)
+				&& Objects.equals(accountNonLocked, other.accountNonLocked)
+				&& Objects.equals(credentialsNonExpired, other.credentialsNonExpired)
 				&& Objects.equals(enabled, other.enabled) && Objects.equals(fullName, other.fullName)
 				&& Objects.equals(id, other.id) && Objects.equals(password, other.password)
 				&& Objects.equals(userName, other.userName);
 	}
+
+
 
 	
 	

@@ -1,5 +1,0 @@
-package com.fsc.jwt.exception;
-
-public class InvalidJwtAutheticationException {
-
-}

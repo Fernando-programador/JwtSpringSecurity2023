@@ -1,5 +1,0 @@
-package com.fsc.jwt.exceptionHandler;
-
-public class CustomizedResponseEntity {
-
-}

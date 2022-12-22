@@ -1,5 +1,0 @@
-package com.fsc.jwt.Dto;
-
-public class UserDto {
-
-}

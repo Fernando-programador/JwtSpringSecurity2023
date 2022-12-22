@@ -3,6 +3,7 @@ package com.fsc.jwt.service;
 import java.util.logging.Logger;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;
@@ -14,13 +15,17 @@ import com.fsc.jwt.mapper.DozerMapper;
 import com.fsc.jwt.models.User;
 import com.fsc.jwt.repository.UserRepository;
 
+import jakarta.transaction.Transactional;
+
 @Service
-public class UserService implements UserDetailsService {
+public class UserService  {
 
 	private Logger logger = Logger.getLogger(UserService.class.getName());
 
 	@Autowired
 	private UserRepository userRepository;
+
+	
 
 	@Override
 	public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException {
@@ -45,7 +50,7 @@ public class UserService implements UserDetailsService {
 
 		return dto;
 	}
-
+	
 	public UserDto create(UserDto userDto) {
 		logger.info("Service create");
 		userDto.setId(null);
@@ -60,7 +65,9 @@ public class UserService implements UserDetailsService {
 
 	}
 
-	public UserService(UserRepository userRepository) {
-		this.userRepository = userRepository;
-	}
+
+
+
+	
+	
 }

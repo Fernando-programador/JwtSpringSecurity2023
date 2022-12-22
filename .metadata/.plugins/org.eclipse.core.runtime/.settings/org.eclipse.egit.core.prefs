@@ -1,4 +1,4 @@
-GitRepositoriesView.GitDirectories=\\\\SERVER\\PROJETOS_PROGRAMA\u00C7\u00C2O\\ECLIPSE\\jwt-spring-security-2022\\.git;
-GitRepositoriesView.GitDirectories.relative=.git;
+GitRepositoriesView.GitDirectories=\\\\server\\PROJETOS_PROGRAMA\u00C7\u00C2O\\ECLIPSE\\jwt-spring-security-2022\\.git;\\\\SERVER\\PROJETOS_PROGRAMA\u00C7\u00C2O\\ECLIPSE\\jwt-spring-security-2022\\.git;
+GitRepositoriesView.GitDirectories.relative=.git;.git;
 core_autoIgnoreDerivedResources=false
 eclipse.preferences.version=1

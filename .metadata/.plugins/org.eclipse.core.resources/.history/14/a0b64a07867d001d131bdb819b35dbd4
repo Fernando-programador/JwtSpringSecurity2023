@@ -1,5 +1,0 @@
-package com.fsc.jwt.securityJwt;
-
-public class JwtTokenProvider {
-
-}

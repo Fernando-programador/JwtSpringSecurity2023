@@ -13,7 +13,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "permissao")
+@Table(name = "permission")
 public class Permission implements GrantedAuthority, Serializable {
 
 	private static final long serialVersionUID = 1L;
